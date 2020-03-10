@@ -1,0 +1,19 @@
+.parentbox {
+    position: relative;
+}
+.box {
+    height: 256px;
+    width: 256px;
+}
+.red {
+    background-color: red;
+    position: absolute;
+    top: 0px;
+}
+.blue {
+    background-color: blue;
+    position: absolute;
+    left: 128px;
+    top: 0px;
+
+}
